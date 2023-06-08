@@ -15,7 +15,7 @@ Repositório feito para alocar meu mini projeto com web api feito em .NET usando
 ### Diagrama de Classes do Projeto (WIP)
 Feito com PlantUML plugin para VSCode
 
-
+![Classes Diagram](uml/BlogSystem.png)
 
 ## License
 
