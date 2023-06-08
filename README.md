@@ -6,12 +6,14 @@ Repositório feito para alocar meu mini projeto com web api feito em .NET usando
   - Pacotes:
     - EntityFramework (SQL Server)
     - EntityFramework (Design)
-- DBeaver
-- Insomnia
+- SQL Server Express (Docker)
+- Insomina
+  - Para testar as requisições
+- Dbeaver
+  - Para visualizar o banco de dados
 
 ### Diagrama de Classes do Projeto (WIP)
 Feito com PlantUML plugin para VSCode
-
 
 
 
